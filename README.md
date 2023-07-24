@@ -1,5 +1,3 @@
-# lovely-loveseat-furniture
-Sure! Below is the complete project description and all the pieces of data in a GitHub markdown file format. You can distribute this to your students who are just starting Python:
 
 ---
 # Lovely Loveseats Furniture Store Receipt - Python Project
